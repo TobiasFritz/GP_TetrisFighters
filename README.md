@@ -1,7 +1,7 @@
 # GP_TetrisFighters
 
 # Allgemein
-Es basiert auf dem 3D Side Scroller Template.
+Es basiert auf dem 3D Side Scroller Template.\t
 Bei diesem Spiel handelt es sich um ein Fighting Game.
 Es ist ein lokaler 2 Spieler Modus vorgesehen.
 Es gibt eine Map.
