@@ -16,7 +16,9 @@ Es gibt Tetris Steine, die der Spieler aufheben kann. <br/>
 Es gibt verschiedene Arten von Tetris Steinen (Form, Icon). <br/>
 Die Formen sind die Standard Tetris Stein Formen. <br/>
 Es gibt 5 verschiedene Icons: <br/>
-* ICON + EFFEKT IN HAND + EFFEKT IN REIHE <br/>
+* ICON 
++ EFFEKT IN HAND 
++ EFFEKT IN REIHE <br/>
 * - Schwert + mehr Schaden + Schadensbuff <br/>
 * - Schild + hält mehr aus + Defensivbuff <br/>
 * - Bombe + explodiert bei Aufprall + Bombe wird für Spieler freigeschaltet <br/>
